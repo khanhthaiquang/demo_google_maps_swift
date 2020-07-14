@@ -1,0 +1,17 @@
+//
+//  Staging.xcconfig
+//  DemoMaps
+//
+//  Created by Khánh's Mac on 3/13/20.
+//  Copyright © 2020 Khánh's Mac. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+IS_APP_NAME = DemoMaps Stagin
+IS_APP_VERSION = 0.3
+IS_APP_BUNDLE_ID = Example.DemoMapsStagin
+IS_APP_ICON = AppIconStaging
+
+BASE_URL = https:abcstagin.com/api
+API_KEY = ck_a57e4fa2e14c12ae3f400371cf2951ec3dea5_stg
